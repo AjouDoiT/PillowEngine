@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\OtherProgrammingProjects\OpenGL_PillowEngine\build_vs2013\CMakeFiles\9062ef54702ddd7b3c2208f4f440e776\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3E276CA8-A3E8-3180-A692-A36A1BFBEEFD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
